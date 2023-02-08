@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "testmod",
+  "version": "Alpha.0.0.0-1.19-fabric-reload",
+
+  "name": "CatPig's Test Mod",
+  "description": "A test mod.\n能够修改客户端生物模型\n不要尝试在单人或者服务端使用\n仅限内部使用\nMod本身不稳定，出现问题需自行调试\n皮肤大多不是我画的，我只是在组合和调色，来源参考textureSourse.json\nForge会报错关于重写生物类型的事，别管它，这个mod没坏，其为刻意的。\n深海守卫者和远古守卫者的光线有时候渲染不出来，我不知道为啥。\n猫Age<0时的模型没有变化是刻意的，要看是不是小猫用F3+B\n有打算搞warden和allay，但是懒，咕",
+  "authors": [
+    "chaosDiscoClub.entity.catPig.name"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/testmod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.entityCatPig.testmod.TestModClient"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
