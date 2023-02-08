@@ -5,9 +5,9 @@ A minecraft mod that changes the appearance of certain mobs
 # Info
 这个mod是教程 https://www.bilibili.com/read/cv17556579 的示例mod
 
-mod中所有的皮肤'''不是'''我画的，它们修改自以下来源，我进行的修改可以在/resources/assets/testmod/textures/extensions处查看。
+mod中所有的皮肤**不是**我画的，它们修改自以下来源，我进行的修改可以在/resources/assets/testmod/textures/extensions处查看。
 这些皮肤仅作mod效果的展示作用，我没有将其替换为空皮肤只是因为我懒
-我不确定对这些皮肤使用或者修改的协议如何，因此如果您是皮肤的作者，您不希望您的皮肤出现在这里，请在b站上联系我（我看私信不是特别勤），我会尽快将其删除，对您造成的不便我表示抱歉。
+**我不确定对这些皮肤使用或者修改的协议如何，因此如果您是皮肤的作者，您不希望您的皮肤出现在这里，请在b站上联系我（我看私信不是特别勤），或者在github直接举报侵权，我会尽快将其删除，对您造成的不便我表示抱歉。**
 
 {
   "info": [
