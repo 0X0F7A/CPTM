@@ -1,0 +1,55 @@
+Planned :
+
+CatEntity
+
+EndermanEntity Done
+CreeperEntity Done
+DrownedEntity Done
+HuskEntity Done
+EndermiteEntity Done
+PiglinEntity Done
+PiglinBruteEntity Done
+SilverfishEntity Done
+SkeletonEntity Done
+StrayEntity Done
+WitherSkeletonEntity Done
+ZombieEntity Done
+ZombifiedPiglinEntity Done
+SnowGolemEntity Done
+GhastEntity Done
+BlazeEntity Done
+WitherEntity Done
+MagemaCubeEntity entends AbstractCube Done
+SlimeEntity extends AbstractCube Done
+CaveSpiderEntity Done
+SpiderEntity Done
+ElderGuardianEntity extends AbstractGuardian Done
+GuardianEntity extends AbstractGuardian Done
+PhantomEntity Done
+EvokerEntity extends AbstractVillager Done
+IllusionerEntity extends AbstractVillager Done
+PillagerEntity extends AbstractVillager Done
+VindicatorEntity extends AbstractVillager Done
+VexEntity extends AbstractVillager Done
+WanderingTraderEntity extends AbstractVillager Done
+WitchEntity extends AbstractVillager Done
+IronGolemEntity extends AbstractVillager Done
+VillagerEntity extends AbstractVillager Done
+ZombieVillagerEntity extends AbstractVillager Done
+
+Abstract:
+
+AbstractFlyingEntities Done
+
+
+Optional:
+
+WolfEntity // Too lazy.
+FoxEntity // Too lazy for its jump ani.
+OcelotEntity extends AbstractCat // Enough cats.
+
+EnderDragonEntity // Too complex, I`m lazy.
+
+EnderCrystalEntity // No good idea.
+ShulkerEntity // No good idea.
+
