@@ -12,7 +12,7 @@ mod中所有的皮肤 **不是** 我画的，它们修改自以下来源，我�
 
 **我不确定对这些皮肤使用或者修改的协议如何，因此如果您是皮肤的作者，您不希望您的皮肤出现在这里，请在b站上联系我（我看私信不是特别勤），或者在github直接举报侵权，我会尽快将其删除，对您造成的不便我表示抱歉。**
 
-'''
+```
 {
   "info": [
     "extands 原始皮肤来源",
@@ -51,7 +51,7 @@ mod中所有的皮肤 **不是** 我画的，它们修改自以下来源，我�
   "cptmvillager & cptmzombievillager" : "extends https://www.mcbbs.net/thread-1215413-1-1.html & https://www.mcbbs.net/thread-1306223-1-1.html &https://www.mcbbs.net/thread-1242641-1-1.html & https://www.mcbbs.net/thread-1075669-1-1.html implement https://www.planetminecraft.com/skin/the-farmer-2357601/ & https://www.planetminecraft.com/skin/new-minecraft-1-14-fletcher-villager/ & https://www.planetminecraft.com/skin/vaelyan-knight-no-helmet/",
   "cptmcat" : "mix https://www.planetminecraft.com/skin/cat-maid-base & https://www.mcbbs.net/thread-1306223-1-1.html & https://www.mcbbs.net/thread-1075669-1-1.html &https://www.mcbbs.net/thread-1291053-1-1.html"
 }
-'''
+```
 
 其余部分元素来自minecraft1.19原版的assets
 
@@ -59,7 +59,7 @@ mod中所有的皮肤 **不是** 我画的，它们修改自以下来源，我�
 
 # 修改的生物
 
-'''
+```
 CatEntity
 EndermanEntity
 CreeperEntity
@@ -95,4 +95,4 @@ WitchEntity
 IronGolemEntity
 VillagerEntity
 ZombieVillagerEntity
-'''
+```
