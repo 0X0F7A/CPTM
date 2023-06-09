@@ -3,6 +3,20 @@ A minecraft mod that changes the appearance of certain mobs
 
 一个我的世界娘化mod
 
+# !重要!important 关于fractureiser病毒的信息 | about the fractureiser virus
+我在上传代码的时候，应该早于首例fractureiser病毒的出现，根据我对于这个病毒的了解，我简单检查了一下我的源码，其中应该没有第零阶段的病毒代码，但是我对于这个病毒了解并不多，也没有真正跑过检测，因此不排除被感染的可能。
+
+具体来说，我的Init文件中没有任何问题，但是好像三阶段的病毒会修改gradle文件，这个我不知道如何检查。
+
+更多信息请参考 https://github.com/fractureiser-investigation/fractureiser
+
+
+I have uploaded the code before the first case of fractureiser virus. Based on my understanding of the virus, I gave my code a simple check. I think I didn't see any stage 0 virus code. However, due to my limited undertanding and the fact that I didn't check my code thoroughly, I can't say that my code is 100% safe.
+
+To be more precise, I checked my Init classes and they seemed to be alright. However, the report timeline said that stage 3 virus would change gradle files and I have no idea how to check that.
+
+For more info, please check https://github.com/fractureiser-investigation/fractureiser
+
 # Info
 这个mod是教程 https://www.bilibili.com/read/cv17556579 的示例mod
 
